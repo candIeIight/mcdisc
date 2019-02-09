@@ -2,36 +2,36 @@
     {
         "id": 1,
         "minecraftId": "item.mcdisc.1",
-        "url": "https://www.youtube.com/watch?v=AEB6ibtdPZc",
-        "name": "Hard Times",
-        "artist": "Paramore",
+        "url": "https://www.youtube.com/watch?v=E7sP6t1QyrI",
+        "name": "witchblades",
+        "artist": "lil peep",
         "released": true,
         "soundId": "sound.mcdisc.1"
     },
     {
         "id": 2,
         "minecraftId": "item.mcdisc.2",
-        "url": "https://www.youtube.com/watch?v=ObmXBy2IyaM",
-        "name": "James Bond",
-        "artist": "Scouting For Girls",
+        "url": "https://www.youtube.com/watch?v=nmrn14B1FuI",
+        "name": "star shopping",
+        "artist": "lil peep",
         "released": true,
         "soundId": "sound.mcdisc.2"
     },
     {
         "id": 3,
         "minecraftId": "item.mcdisc.3",
-        "url": "https://www.youtube.com/watch?v=o0u4M6vppCI",
-        "name": "Shia LaBeouf",
-        "artist": "Rob Cantor",
+        "url": "https://www.youtube.com/watch?v=-jRKsiAOAA8",
+        "name": "falling down",
+        "artist": "lil peep & xxx",
         "released": true,
         "soundId": "sound.mcdisc.3"
     },
     {
         "id": 4,
         "minecraftId": "item.mcdisc.4",
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        "name": "Never Gonna Give You Up",
-        "artist": "Rick Astley",
+        "url": "https://www.youtube.com/watch?v=x2quiCmtVcI",
+        "name": "sex with my ex",
+        "artist": "lil peep",
         "released": true,
         "soundId": "sound.mcdisc.4"
     }
